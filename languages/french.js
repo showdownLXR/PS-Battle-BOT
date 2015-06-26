@@ -104,60 +104,60 @@
 		youtube: {
 			'notchat': 'Cette commande est avaliable seulement pour les salles de chat',
 			'u': 'Usage',
-			'ae': 'YouTube link recognition is already avaliable for room',
-			'e': 'YouTube link recognition is now avaliable for this room',
-			'ad': 'YouTube link recognition is already disabled for room',
-			'd': 'YouTube link recognition is now disabled for this room'
+			'ae': 'YouTube reconnaissance du lien est déjà disponible pour la salle',
+			'e': 'YouTube reconnaissance de lien est maintenant disponible pour cette salle',
+			'ad': 'YouTube reconnaissance du lien est déjà désactivé pour la salle',
+			'd': 'YouTube reconnaissance de lien est maintenant désactivée pour cette salle'
 		},
 		/*
 		* Pokemon Commands
 		*/
-		randompokemon: {'err': 'An error ocurred, try again later'},
+		randompokemon: {'err': 'Une erreur est survenue, essayez à nouveau plus tard'},
 		gen: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'You must specify a pokemon, move, item or ability',
-			'nfound': 'Pokemon, item, move or ability not found',
-			'g': 'Generation of'
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Vous devez spécifier un pokemon, mouvement, objet ou capacité',
+			'nfound': 'Pokemon, mouvement, objet ou capacité introuvable',
+			'g': 'Génération de'
 		},
 		randommoves: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'You must specify a pokemon',
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Vous devez spécifier un pokemon',
 			'r': 'Random singles moves',
 			'rd': 'Random doubles/triples moves',
-			'nfound': 'Pokemon not found'
+			'nfound': 'Pokemon introuvable'
 		},
 		heavyslam: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'You must specify 2 pokemon',
-			'n1': 'Attacker Pokemon not found',
-			'n2': 'Defender Pokemon not found',
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Vous devez spécifier 2 pokemon',
+			'n1': 'L\'attaquant Pokemon introuvable',
+			'n2': 'Defender Pokemon introuvable',
 			's': 'Heavy slam/Heat crash base power'
 		},
 		prevo: {
-			'err': 'An error ocurred, try again later',
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
 			'p1': 'Pokemon',
-			'p2': 'has not preevo',
-			'nfound': 'Pokemon not found'
+			'p2': 'n\'a pas preevo',
+			'nfound': 'Pokemon introuvable'
 		},
 		priority: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'Pokemon not found',
-			'err3': 'No moves found'
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Pokemon introuvable',
+			'err3': 'Aucun mouvement trouvés'
 		},
 		boosting: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'Pokemon not found',
-			'err3': 'No moves found'
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Pokemon introuvable',
+			'err3': 'Aucun mouvement trouvés'
 		},
 		recovery: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'Pokemon not found',
-			'err3': 'No moves found'
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Pokemon introuvable',
+			'err3': 'Aucun mouvement trouvés'
 		},
 		hazard: {
-			'err': 'An error ocurred, try again later',
-			'err2': 'Pokemon not found',
-			'err3': 'No moves found'
+			'err': 'Une erreur est survenue, essayez à nouveau plus tard',
+			'err2': 'Pokemon introuvable',
+			'err3': 'Aucun mouvement trouvés'
 		},
 		/*
 		* Battle Commands
